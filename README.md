@@ -45,4 +45,3 @@ If you discover a security vulnerability within this boilerplate, please send an
 
 MIT: [http://anthony.mit-license.org](http://anthony.mit-license.org)
 
-
