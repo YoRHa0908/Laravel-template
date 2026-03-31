@@ -1,4 +1,4 @@
- require('../bootstrap');
+require('../bootstrap');
 require('../plugins');
 
 import Vue from 'vue';
